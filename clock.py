@@ -1,7 +1,3 @@
-# Write a script that reads the current time and converts it to a time of day in hours, minutes, and
-# seconds, plus the number of days since the epoch
-
-from lib2to3.pgen2.token import MINUS
 import time
 import math
 
